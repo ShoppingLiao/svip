@@ -1,0 +1,21 @@
+.App {
+  background: url('../src/images/bg.jpg');
+  background-size: cover;
+  /* position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0; */
+  min-width: 1334px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+img {
+  width: auto;
+}
+
+.header {
+  width: 693px;
+}
